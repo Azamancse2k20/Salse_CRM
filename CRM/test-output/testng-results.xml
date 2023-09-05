@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-05T12:03:38Z" name="Default suite" finished-at="2023-09-05T12:06:37Z" duration-ms="179486">
+    <groups>
+    </groups>
+    <test started-at="2023-09-05T12:03:38Z" name="Default test" finished-at="2023-09-05T12:06:37Z" duration-ms="179486">
+      <class name="SalseCRM.CRM.adding_Oportunities_List">
+        <test-method is-config="true" signature="Test()[pri:0, instance:SalseCRM.CRM.adding_Oportunities_List@7975d1d8]" started-at="2023-09-05T12:03:16Z" name="Test" finished-at="2023-09-05T12:03:38Z" duration-ms="21183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="login()[pri:0, instance:SalseCRM.CRM.adding_Oportunities_List@7975d1d8]" started-at="2023-09-05T12:03:38Z" name="login" finished-at="2023-09-05T12:04:24Z" duration-ms="46674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="ContactManager()[pri:0, instance:SalseCRM.CRM.adding_Oportunities_List@7975d1d8]" started-at="2023-09-05T12:04:24Z" name="ContactManager" finished-at="2023-09-05T12:04:43Z" duration-ms="18434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactManager -->
+        <test-method signature="addRecord()[pri:0, instance:SalseCRM.CRM.adding_Oportunities_List@7975d1d8]" started-at="2023-09-05T12:04:43Z" name="addRecord" finished-at="2023-09-05T12:05:13Z" duration-ms="30110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRecord -->
+        <test-method signature="AddContactList()[pri:0, instance:SalseCRM.CRM.adding_Oportunities_List@7975d1d8]" started-at="2023-09-05T12:05:13Z" name="AddContactList" finished-at="2023-09-05T12:05:51Z" duration-ms="38188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddContactList -->
+        <test-method signature="AddOportunitiesList()[pri:0, instance:SalseCRM.CRM.adding_Oportunities_List@7975d1d8]" started-at="2023-09-05T12:05:51Z" name="AddOportunitiesList" finished-at="2023-09-05T12:06:26Z" duration-ms="35400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddOportunitiesList -->
+        <test-method is-config="true" signature="TestEnd()[pri:0, instance:SalseCRM.CRM.adding_Oportunities_List@7975d1d8]" started-at="2023-09-05T12:06:26Z" name="TestEnd" finished-at="2023-09-05T12:06:37Z" duration-ms="10598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestEnd -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:SalseCRM.CRM.adding_Oportunities_List@7975d1d8]" started-at="2023-09-05T12:06:37Z" name="teardown" finished-at="2023-09-05T12:06:40Z" duration-ms="2567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- SalseCRM.CRM.adding_Oportunities_List -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

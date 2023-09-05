@@ -1,0 +1,37 @@
+package SalseCRM.CRM;
+
+import java.time.Duration;
+
+import org.openqa.selenium.By;
+import org.testng.annotations.Test;
+
+public class adding_Oportunities_List extends CRM_BaseClass {
+	
+	
+	@Test
+	 public static void AddRecord() throws InterruptedException {
+		 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[1]/div[2]/div[1]/app-menu/dx-menu/div/ul/li[2]/div/div/span")).click();
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[1]/div[2]/div[2]/div/div[1]/app-list-view/div[1]/div[2]/app-data-grid-toolbar/div/div[1]/div[1]/dx-drop-down-button/div/div/div[1]/div/span")).click();
+		 Thread.sleep(2000);
+		 
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[1]/app-text-control/div/div/dx-text-box/div/div[1]/input")).sendKeys("ahad@gmail.com");
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[2]/app-multivalue-control/div/div/dx-select-box/div[1]/div/div[2]/div/div/div")).click();
+		 driver.findElement(By.xpath("/html/body/div[2]/div/div/div/div[1]/div/div[1]/div[2]/div[6]/div")).click();
+		
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[3]/app-multivalue-control/div/div/dx-select-box/div/div/div[2]/div/div/div")).click();
+		 driver.findElement(By.xpath("/html/body/div[2]/div/div/div/div[1]/div/div[1]/div[2]/div[4]/div")).click();
+		  
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[4]/app-text-control/div/div/dx-text-box/div/div[1]/input")).sendKeys("www.m2sys.com");
+				 
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[5]/app-text-control/div/div/dx-text-box/div/div[1]/input")).sendKeys("https://www.LinkedIn.com/ar85/");
+		 
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[6]/app-text-area/div/div/dx-text-area/div/div[1]/textarea")).sendKeys("Mohakhali, Dhaka");
+		 Thread.sleep(2000);
+		 
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[2]/div/dx-button[2]/div")).click();
+		 
+		 Thread.sleep(5000);
+	}
+
+}

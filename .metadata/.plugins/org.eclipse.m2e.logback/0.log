@@ -1,0 +1,691 @@
+2023-09-04 01:46:31,908 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-09-04 01:49:48,953 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [271])
+2023-09-04 01:49:48,963 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-09-04 01:49:48,964 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-09-04 01:49:48,965 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-09-04 01:49:48,965 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-09-04 01:49:48,966 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-09-04 01:49:48,967 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-09-04 01:49:48,967 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-09-04 01:49:48,968 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-09-04 01:49:48,968 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-09-04 01:49:48,969 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-09-04 01:49:48,969 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-09-04 01:49:48,969 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-09-04 01:49:48,970 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-09-04 01:49:48,970 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-09-04 01:49:48,971 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-09-04 01:49:48,971 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-09-04 01:49:48,972 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-09-04 01:49:48,972 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-09-04 01:49:48,972 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-09-04 01:49:48,973 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-09-04 01:49:48,973 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-09-04 01:49:48,974 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-09-04 01:49:48,974 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-09-04 01:49:48,974 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-09-04 01:49:48,975 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-09-04 01:49:48,975 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-09-04 01:49:48,975 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-09-04 01:49:48,976 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-09-04 01:49:48,976 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-09-04 01:49:48,977 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-09-04 01:49:48,978 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-09-04 01:49:48,978 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-09-04 01:49:48,979 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-09-04 01:49:48,979 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-09-04 01:49:49,008 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-09-04 01:49:49,009 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-09-04 01:49:49,009 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-09-04 01:49:49,012 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [9])
+2023-09-04 01:49:49,014 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\com.google.guava_31.1.0.jre.jar
+2023-09-04 01:49:49,014 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [439])
+2023-09-04 01:49:49,016 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-09-04 01:49:49,016 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [21])
+2023-09-04 01:49:49,020 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-09-04 01:49:49,020 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [19])
+2023-09-04 01:49:49,024 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-09-04 01:49:49,024 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [41])
+2023-09-04 01:49:49,027 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-09-04 01:49:49,028 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [11])
+2023-09-04 01:49:49,029 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Admin\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-09-04 01:49:49,045 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Admin\AppData\Local\Temp\m2e-archetypeGenerator14451958716900855260":
+2023-09-04 01:49:49,051 [Worker-7: Launching mavenrun-1e90a603-9142-464b-aba0-3e88feca5fef] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DgroupId=SalseCRM -DartifactId=CRM -Dversion=0.0.1-SNAPSHOT -Dpackage=SalseCRM.CRM -DoutputDirectory="D:\Projects\Salse CRM" -Dstyle.color=always -U archetype:generate
+2023-09-04 01:52:11,033 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Projects\Salse CRM\CRM\pom.xml
+2023-09-04 01:52:12,672 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SalseCRM:CRM:0.0.1-SNAPSHOT @ D:\Projects\Salse CRM\CRM\pom.xml.
+2023-09-04 01:52:13,726 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CRM/src/main/java
+2023-09-04 01:52:13,734 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CRM/src/test/java
+2023-09-04 01:52:13,894 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2023-09-04 01:52:15,431 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 01:52:15,432 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 01:52:15,451 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 01:52:15,451 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 01:53:52,765 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SalseCRM:CRM:0.0.1-SNAPSHOT @ D:\Projects\Salse CRM\CRM\pom.xml.
+2023-09-04 01:53:56,501 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 01:53:56,502 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 01:53:56,511 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 01:53:56,512 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 01:53:56,980 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/4.12.0/selenium-support-4.12.0-sources.jar
+2023-09-04 01:53:57,236 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/4.12.0/selenium-support-4.12.0-sources.jar
+2023-09-04 01:53:57,244 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-support:4.12.0
+2023-09-04 01:55:32,529 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 01:55:32,529 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 01:55:32,534 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 01:55:32,534 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 01:58:47,171 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 01:58:47,171 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 01:58:47,176 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 01:58:47,176 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 01:58:53,872 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 01:58:53,873 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 01:58:53,880 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 01:58:53,880 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 02:02:34,094 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SalseCRM:CRM:0.0.1-SNAPSHOT @ D:\Projects\Salse CRM\CRM\pom.xml.
+2023-09-04 02:02:37,195 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:02:37,195 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 02:02:37,201 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:02:37,202 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 02:06:27,415 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:06:27,416 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 02:06:27,431 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:06:27,431 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 02:09:22,995 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:09:22,995 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 02:09:23,000 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:09:23,000 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 02:10:21,859 [Worker-29: Launching adding_Account_record.Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:10:21,860 [Worker-29: Launching adding_Account_record.Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 02:10:21,866 [Worker-29: Launching adding_Account_record.Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:10:21,867 [Worker-29: Launching adding_Account_record.Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 02:18:03,602 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:18:03,603 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 02:18:03,606 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:18:03,606 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 02:27:23,411 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:27:23,411 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 02:27:23,415 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:27:23,415 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 02:35:04,376 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:35:04,376 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 02:35:04,380 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:35:04,381 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 02:47:56,598 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:47:56,598 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 02:47:56,604 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:47:56,604 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 02:48:43,447 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:48:43,447 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 02:48:43,451 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:48:43,451 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 02:50:57,592 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:50:57,592 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 02:50:57,595 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:50:57,596 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 02:52:18,862 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:52:18,862 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 02:52:18,866 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:52:18,866 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 02:53:28,399 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:53:28,400 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 02:53:28,403 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:53:28,404 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 02:58:53,607 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:58:53,608 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 02:58:53,612 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:58:53,612 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 02:59:04,569 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:59:04,569 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 02:59:04,573 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:59:04,573 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 02:59:11,399 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:59:11,399 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 02:59:11,402 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 02:59:11,403 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 22:06:30,345 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-09-04 22:47:12,620 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 22:47:12,624 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 22:47:12,631 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 22:47:12,632 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 22:51:25,829 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 22:51:25,832 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 22:51:25,841 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 22:51:25,841 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 22:52:29,666 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 22:52:29,666 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 22:52:29,670 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 22:52:29,670 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 22:54:50,522 [Worker-23: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 22:54:50,522 [Worker-23: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 22:54:50,527 [Worker-23: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 22:54:50,527 [Worker-23: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 22:56:45,125 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 22:56:45,126 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 22:56:45,129 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 22:56:45,129 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 22:57:56,607 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 22:57:56,607 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 22:57:56,611 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 22:57:56,611 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 23:02:28,095 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:02:28,095 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 23:02:28,100 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:02:28,100 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 23:08:29,143 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:08:29,143 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 23:08:29,149 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:08:29,149 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 23:10:24,939 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:10:24,939 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 23:10:24,941 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:10:24,942 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 23:14:41,813 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:14:41,814 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 23:14:41,818 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:14:41,818 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 23:25:34,825 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:25:34,825 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 23:25:34,828 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:25:34,828 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 23:25:46,385 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:25:46,385 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 23:25:46,389 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:25:46,390 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 23:25:59,618 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:25:59,618 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 23:25:59,623 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:25:59,623 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 23:32:55,250 [Worker-37: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:32:55,250 [Worker-37: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 23:32:55,255 [Worker-37: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:32:55,256 [Worker-37: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 23:35:38,592 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:35:38,592 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 23:35:38,595 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:35:38,595 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 23:36:08,585 [Worker-41: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:36:08,585 [Worker-41: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 23:36:08,594 [Worker-41: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:36:08,598 [Worker-41: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 23:38:49,890 [Worker-41: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:38:49,890 [Worker-41: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 23:38:49,894 [Worker-41: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:38:49,894 [Worker-41: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 23:42:09,852 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:42:09,852 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 23:42:09,855 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:42:09,856 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 23:46:48,022 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:46:48,023 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 23:46:48,026 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:46:48,026 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-04 23:50:31,104 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:50:31,104 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-04 23:50:31,107 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-04 23:50:31,107 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:00:16,194 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:00:16,195 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:00:16,197 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:00:16,197 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:07:35,270 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:07:35,270 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:07:35,272 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:07:35,272 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:26:14,743 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:26:14,743 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:26:14,747 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:26:14,747 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:26:18,871 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:26:18,871 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:26:18,875 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:26:18,875 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:29:55,581 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:29:55,581 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:29:55,584 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:29:55,585 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:30:18,741 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:30:18,742 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:30:18,745 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:30:18,746 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:33:18,104 [Worker-71: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:33:18,104 [Worker-71: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:33:18,107 [Worker-71: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:33:18,108 [Worker-71: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:36:49,048 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:36:49,048 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:36:49,051 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:36:49,051 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:37:28,544 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:37:28,545 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:37:28,549 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:37:28,549 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:40:52,073 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:40:52,074 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:40:52,077 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:40:52,078 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:44:22,770 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:44:22,770 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:44:22,773 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:44:22,773 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:45:04,174 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:45:04,175 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:45:04,178 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:45:04,178 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:45:23,149 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:45:23,150 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:45:23,153 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:45:23,153 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:48:42,608 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:48:42,608 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:48:42,611 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:48:42,612 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:54:36,721 [Worker-80: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:54:36,721 [Worker-80: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:54:36,724 [Worker-80: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:54:36,724 [Worker-80: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 00:59:50,350 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:59:50,351 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 00:59:50,354 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 00:59:50,354 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:00:10,649 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:00:10,650 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:00:10,653 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:00:10,653 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:00:22,463 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:00:22,463 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:00:22,466 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:00:22,467 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:01:06,211 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:01:06,211 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:01:06,214 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:01:06,215 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:02:40,105 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:02:40,105 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:02:40,108 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:02:40,109 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:04:24,767 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:04:24,768 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:04:24,771 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:04:24,771 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:05:43,293 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:05:43,293 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:05:43,296 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:05:43,296 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:06:59,859 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:06:59,859 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:06:59,862 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:06:59,862 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:07:44,358 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:07:44,358 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:07:44,360 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:07:44,360 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:07:57,976 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:07:57,976 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:07:57,979 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:07:57,979 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:08:12,143 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:08:12,143 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:08:12,145 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:08:12,146 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:13:29,435 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:13:29,436 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:13:29,439 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:13:29,439 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:18:17,474 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:18:17,474 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:18:17,478 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:18:17,478 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:28:56,293 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:28:56,294 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:28:56,296 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:28:56,297 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:30:40,492 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:30:40,492 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:30:40,495 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:30:40,496 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:32:32,963 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:32:32,963 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:32:32,966 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:32:32,966 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:33:04,190 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:33:04,190 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:33:04,193 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:33:04,193 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 01:34:31,691 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:34:31,692 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 01:34:31,694 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 01:34:31,695 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 08:45:13,701 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-09-05 08:46:01,988 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 08:46:01,990 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 08:46:01,999 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 08:46:02,000 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 08:46:12,877 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 08:46:12,877 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\main\resources
+2023-09-05 08:46:12,881 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 08:46:12,881 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\Salse CRM\CRM\src\test\resources
+2023-09-05 09:38:45,929 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-09-05 09:39:09,894 [Worker-8: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 09:39:09,896 [Worker-8: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 09:39:09,914 [Worker-8: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 09:39:09,914 [Worker-8: Launching adding_Account_record] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 09:43:11,431 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 09:43:11,432 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 09:43:11,436 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 09:43:11,437 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 09:45:00,077 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 09:45:00,088 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 09:45:00,094 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 09:45:00,095 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 09:46:45,886 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 09:46:45,886 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 09:46:45,891 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 09:46:45,891 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 11:58:44,672 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 11:58:44,672 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 11:58:44,676 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 11:58:44,676 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 11:59:01,845 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 11:59:01,845 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 11:59:01,849 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 11:59:01,850 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 12:04:29,066 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:04:29,067 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 12:04:29,076 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:04:29,076 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 12:06:12,386 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:06:12,386 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 12:06:12,390 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:06:12,391 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 12:16:13,064 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:16:13,064 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 12:16:13,068 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:16:13,069 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 12:42:53,432 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:42:53,432 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 12:42:53,435 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:42:53,436 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 12:45:31,276 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:45:31,277 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 12:45:31,282 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:45:31,282 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 12:46:53,709 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:46:53,709 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 12:46:53,716 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:46:53,717 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 12:47:52,882 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:47:52,883 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 12:47:52,887 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:47:52,887 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 12:54:29,781 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:54:29,781 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 12:54:29,785 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:54:29,786 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 12:56:31,865 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:56:31,865 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 12:56:31,868 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:56:31,869 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 12:57:50,253 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:57:50,253 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 12:57:50,256 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 12:57:50,256 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:04:02,576 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:04:02,576 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:04:02,580 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:04:02,580 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:04:12,347 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:04:12,347 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:04:12,350 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:04:12,351 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:06:46,536 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:06:46,536 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:06:46,539 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:06:46,540 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:10:39,109 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:10:39,109 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:10:39,114 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:10:39,114 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:12:29,263 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:12:29,263 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:12:29,267 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:12:29,268 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:14:05,254 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:14:05,254 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:14:05,257 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:14:05,257 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:15:19,735 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:15:19,735 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:15:19,739 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:15:19,739 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:18:44,412 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:18:44,412 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:18:44,415 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:18:44,415 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:20:49,478 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:20:49,478 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:20:49,480 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:20:49,480 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:23:10,090 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:23:10,090 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:23:10,093 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:23:10,093 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:25:37,886 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:25:37,886 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:25:37,889 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:25:37,890 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:29:32,483 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:29:32,483 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:29:32,486 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:29:32,486 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:31:57,846 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:31:57,846 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:31:57,849 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:31:57,850 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:33:44,873 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:33:44,874 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:33:44,877 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:33:44,877 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:36:39,218 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:36:39,219 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:36:39,223 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:36:39,223 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:36:50,711 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:36:50,711 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:36:50,715 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:36:50,716 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:38:48,681 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:38:48,682 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:38:48,686 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:38:48,686 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:41:04,392 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:41:04,393 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:41:04,397 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:41:04,397 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:42:18,456 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:42:18,456 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:42:18,461 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:42:18,461 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:47:23,422 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:47:23,423 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:47:23,426 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:47:23,426 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:48:38,455 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:48:38,455 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:48:38,459 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:48:38,459 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:50:27,416 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:50:27,416 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:50:27,419 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:50:27,420 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:51:29,678 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:51:29,678 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:51:29,682 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:51:29,682 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:55:36,551 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:55:36,551 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:55:36,554 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:55:36,554 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:57:44,040 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:57:44,041 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:57:44,044 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:57:44,044 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 13:57:59,728 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:57:59,729 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 13:57:59,732 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 13:57:59,732 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 15:03:04,774 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:03:04,774 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 15:03:04,778 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:03:04,778 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 15:12:30,282 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:12:30,283 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 15:12:30,287 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:12:30,287 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 15:16:13,734 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:16:13,734 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 15:16:13,738 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:16:13,738 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 15:17:32,988 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:17:32,988 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 15:17:32,991 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:17:32,992 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 15:20:46,517 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:20:46,517 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 15:20:46,520 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:20:46,521 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 15:32:13,154 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:32:13,154 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 15:32:13,158 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:32:13,158 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 15:32:31,513 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:32:31,514 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 15:32:31,517 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:32:31,517 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 15:35:35,910 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:35:35,911 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 15:35:35,915 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:35:35,915 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 15:38:20,872 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:38:20,873 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 15:38:20,876 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:38:20,877 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 15:41:49,200 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:41:49,201 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 15:41:49,204 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:41:49,204 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 15:44:31,292 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:44:31,292 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 15:44:31,296 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:44:31,297 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 15:45:30,828 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:45:30,828 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 15:45:30,831 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:45:30,832 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 15:48:48,338 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:48:48,338 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 15:48:48,341 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:48:48,342 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 15:49:14,266 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:49:14,267 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 15:49:14,270 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:49:14,270 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 15:59:53,655 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:59:53,655 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 15:59:53,658 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 15:59:53,659 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:00:55,394 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:00:55,394 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:00:55,399 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:00:55,399 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:01:47,299 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:01:47,299 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:01:47,303 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:01:47,303 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:03:02,506 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:03:02,506 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:03:02,509 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:03:02,509 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:06:58,033 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:06:58,033 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:06:58,037 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:06:58,038 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:07:11,201 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:07:11,201 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:07:11,206 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:07:11,206 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:09:32,483 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:09:32,483 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:09:32,486 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:09:32,487 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:09:46,775 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:09:46,775 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:09:46,779 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:09:46,779 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:11:06,682 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:11:06,682 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:11:06,686 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:11:06,686 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:16:54,062 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:16:54,062 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:16:54,066 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:16:54,067 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:17:58,855 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:17:58,856 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:17:58,859 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:17:58,860 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:27:43,836 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:27:43,836 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:27:43,839 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:27:43,839 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:33:18,881 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:33:18,881 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:33:18,884 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:33:18,884 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:33:57,906 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:33:57,906 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:33:57,909 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:33:57,909 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:37:28,980 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:37:28,980 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:37:28,984 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:37:28,984 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:41:14,660 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:41:14,660 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:41:14,663 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:41:14,664 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:41:29,510 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:41:29,510 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:41:29,514 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:41:29,514 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:42:24,286 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:42:24,287 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:42:24,289 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:42:24,289 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 16:42:38,664 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:42:38,665 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 16:42:38,667 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 16:42:38,668 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 17:11:16,387 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 17:11:16,387 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 17:11:16,391 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 17:11:16,391 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 17:22:59,904 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 17:22:59,904 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 17:22:59,906 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 17:22:59,906 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 17:32:12,642 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 17:32:12,642 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 17:32:12,645 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 17:32:12,645 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 17:33:10,920 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 17:33:10,920 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 17:33:10,923 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 17:33:10,923 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 17:39:56,819 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-09-05 17:45:25,281 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 17:45:25,285 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 17:45:25,293 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 17:45:25,293 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources
+2023-09-05 18:00:16,567 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 18:00:16,568 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\main\resources
+2023-09-05 18:00:16,572 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-05 18:00:16,572 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\M2SYS\CRM\src\test\resources

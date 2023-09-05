@@ -1,0 +1,65 @@
+package SalseCRM.CRM;
+
+import java.time.Duration;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.Test;
+
+public class adding_Contact_List extends adding_Account_record{
+	
+	
+	@Test
+	 public static void AddRecord() throws InterruptedException {
+		
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(120, 1));
+		 wait.until(ExpectedConditions.elementToBeClickable(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[1]/div[2]/div[1]/app-menu/dx-menu/div/ul/li[3]/div/div/img")));
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[1]/div[2]/div[1]/app-menu/dx-menu/div/ul/li[3]/div/div/img")).click();
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[1]/div[2]/div[2]/div/div[1]/app-list-view/div[1]/div[2]/app-data-grid-toolbar/div/div[1]/div[1]/dx-drop-down-button/div/div/div[1]/div/span")).click();
+		 Thread.sleep(2000);
+		 
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/app-parent-selection/div[2]/div/div[2]/div/app-browse-control/div/div/div/div[1]/dx-lookup/div[1]/div[1]")).click();
+		 driver.findElement(By.xpath("/html/body/div[2]/div/div[3]/div[2]/div[1]/div/div[1]/div[2]/div[3]/div/div/div/div")).click();
+		 Thread.sleep(2000);
+		 
+		 // name
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[1]/app-text-control/div/div/dx-text-box/div/div[1]/input")).click();
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[1]/app-text-control/div/div/dx-text-box/div/div[1]/input")).sendKeys("Ahaduzzaman");
+		 Thread.sleep(2000);
+		 
+		 //email
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[2]/app-text-control/div/div/dx-text-box/div/div[1]/input")).click();
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[2]/app-text-control/div/div/dx-text-box/div/div[1]/input")).sendKeys("ahad@gmail.com");
+		 Thread.sleep(2000);
+		 
+		 //phone
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[3]/app-text-control/div/div/dx-text-box/div/div[1]/input")).click();
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[3]/app-text-control/div/div/dx-text-box/div/div[1]/input")).sendKeys("01515556699");
+		 Thread.sleep(2000);
+		 
+		 //title
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[4]/app-text-control/div/div/dx-text-box/div/div[1]/input")).click();
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[4]/app-text-control/div/div/dx-text-box/div/div[1]/input")).sendKeys("Manager");
+		 Thread.sleep(2000);
+		 
+		 //department
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[5]/app-multivalue-control/div/div/dx-select-box/div/div/div[2]/div/div/div")).click();
+		 wait.until(ExpectedConditions.elementToBeClickable(By.xpath("/html/body/div[3]/div/div/div/div[1]/div/div[1]/div[2]/div[5]/div")));
+		 driver.findElement(By.xpath("/html/body/div[3]/div/div/div/div[1]/div/div[1]/div[2]/div[5]/div")).click();
+		 Thread.sleep(2000);
+		 
+		 //linkedIn
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[6]/app-text-control/div/div/dx-text-box/div/div[1]/input")).click();
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[1]/dx-accordion/div/div/div[2]/div/app-section/div/div/div/div/div/app-column/div[6]/app-text-control/div/div/dx-text-box/div/div[1]/input")).sendKeys("http://www.LinkedIn.com/ar85/");
+		 Thread.sleep(2000);
+
+		 //save
+		 driver.findElement(By.xpath("/html/body/app-root/app-app-launch/dx-drawer/div/div[2]/div/div/div/form-add-ui/div[1]/dx-scroll-view/div[1]/div/div/div[2]/form/dx-validation-group/div[2]/div/dx-button[2]/div")).click();
+		 
+		 Thread.sleep(5000);
+		 
+		 
+	 }
+
+}

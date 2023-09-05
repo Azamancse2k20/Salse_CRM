@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestAll">
+    <test name="Login">
+         <classes>
+             <class name="adding_Account_record"/>
+             <class name="adding_Contact_List"/>
+             <class name="adding_Oportunities_List"/>
+          </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->
